@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a chat application for multiplate users. You may wonder or feel like that; oh, it's a common application as usual, like made people from YouTube. No, it's a wrong thought. It's a React application, but I did explore how to structure complex applications and complex state management in an application. I used enough of the power of my React and Redux knowledge in this application. If you want to test this application, open two browsers and create a new account in two browsers, then send a message by modal, and then explore how it's amazing.
